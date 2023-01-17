@@ -1,0 +1,27 @@
+.logo img{
+    height: 85px;
+    position: relative;
+}
+.logo{
+    display: flex;
+    align-items: left;
+    float: left;
+}
+
+.logo2{
+    height: 100px;
+    position: relative;
+    display: flex;
+    align-items: left;
+    float: left;
+}
+
+.logo3{
+    height: 400px;
+    width: 600px;
+    position: relative;
+    display: flex;
+    align-items: left;
+    float: left;
+
+}
